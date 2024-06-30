@@ -32,16 +32,16 @@
 </p>
 
  # Live projects
-Higher Education UK College (Business / Healthcare / IT faculties) - <a href="https://www.esl.ac.uk" target="_blank">www.esl.ac.uk</a> <br/><br/>
+Higher Education UK College  - <a href="https://www.esl.ac.uk" target="_blank">www.esl.ac.uk</a> <br/><br/>
 
-Further Education UK College (Business faculties) - <a href="https://www.londonprofessionalcollege.com" target="_blank">www.londonprofessionalcollege.com</a> <br/><br/>
+Further Education UK College - <a href="https://www.londonprofessionalcollege.com" target="_blank">www.londonprofessionalcollege.com</a> <br/><br/>
 
 Student Recruitment Agency for UK students - <a href="https://www.zsos.co.uk" target="_blank">www.zsos.co.uk</a> <br/><br/>
 
 International Student Recruitment Agency - <a href="https://www.universityapplicationportal.com" target="_blank">www.universityapplicationportal.com</a> <br/><br/>
 
-Higher Education UK College (Creative faculties) - <a href="https://www.vcad.co.uk" target="_blank">www.vcad.co.uk</a> <br/><br/>
+Higher Education UK College - <a href="https://www.vcad.co.uk" target="_blank">www.vcad.co.uk</a> <br/><br/>
 
-Higher Education UK College (Law / Psychology faculties) - <a href="https://www.williamcollege.com" target="_blank">www.williamcollege.com</a> <br/><br/>
+Higher Education UK College - <a href="https://www.williamcollege.com" target="_blank">www.williamcollege.com</a> <br/><br/>
 
 E-learning platform - <a href="https://www.onlinequalification.com" target="_blank">www.onlinequalification.com</a>
