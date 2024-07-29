@@ -9,7 +9,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 👔 &emsp; Director of IT at Planet Education Networks LTD<br/><br/>
+ 👔 &emsp; Technical Director at Planet Education Networks LTD<br/><br/>
  📧 &emsp; Reach me anytime: ra-fin@live.com<br/><br/>
  📍 &emsp; London, UK<br/><br/>
  📒 &emsp; <a href="https://blog.rafin-rahman.com" target="_blank">Blog</a> 
