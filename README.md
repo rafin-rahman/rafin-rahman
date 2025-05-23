@@ -40,7 +40,7 @@
 | Further Education UK College   | <a href="https://www.londonprofessionalcollege.com" target="_blank">londonprofessionalcollege.com</a>    |
 | Student Recruitment Agency for UK students   | <a href="https://www.zsos.co.uk" target="_blank">zsos.co.uk</a>   |
 | International Student Recruitment Agency   | <a href="https://www.universityapplicationportal.com" target="_blank">universityapplicationportal.com</a>   |
-| Higher Education UK College   | <a href="https://www.vcad.co.uk" target="_blank">vcad.co.uk</a>   |
+| Higher Education UK College   | <a href="https://www.vcad.ac.uk" target="_blank">vcad.ac.uk</a>   |
 | Higher Education UK College   | <a href="https://www.williamcollege.com" target="_blank">williamcollege.com</a>   |
 | E-learning platform   | <a href="https://www.onlinequalification.com" target="_blank">onlinequalification.com</a>  |
 
